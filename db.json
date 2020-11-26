@@ -1,7 +1,10 @@
 {
-    "id": 1,
-    "name": "R09922029",
-    "description": "NTU FinTech ProjectC.",
-    "image": "https://cdn.pixabay.com/photo/2020/10/23/17/52/fox-5679446_960_720.png",
-    "strength": 20
+  "tokens": [
+    {
+      "id": 1,
+      "description": "NTU FinTech ProjectC.",
+      "image": "https://cdn.pixabay.com/photo/2020/10/23/17/52/fox-5679446_960_720.png",
+      "name": "R09922029"
+    }
+  ]
 }
